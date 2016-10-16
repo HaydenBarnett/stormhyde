@@ -1,2 +1,2 @@
-# stormhyde
+# Stormhyde
 www.stormhyde.com
